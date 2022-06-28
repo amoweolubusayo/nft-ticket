@@ -1,8 +1,8 @@
-# Basic Sample Hardhat Project
+# NFT ticketing system
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Implementing a contract that mints a NFT as ticket id for people that purchase a lottery ticket. 
 
-Try running some of the following tasks:
+To run the project
 
 ```shell
 npx hardhat accounts
